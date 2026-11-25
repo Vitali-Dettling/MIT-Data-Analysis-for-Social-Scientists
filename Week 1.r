@@ -8,7 +8,7 @@ print(count(papers))
 papers_female <- select(papers, cites);
 
 
-papers_female %>%%
+papers_female %>%
     summary(female_total = sum(cites = female))
 
 print(count(papers_female))
