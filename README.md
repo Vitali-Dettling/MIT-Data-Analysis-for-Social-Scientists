@@ -2,12 +2,21 @@
 
 Course materials and R scripts for the edX MOOC by MIT (Professor Esther Duflo et al.).
 
-## Contents
+## Structure
 
-- `abebooks.R` / `abebooks_clean.R`: Web scraping examples with rvest (AbeBooks prices)
-- `calpoly.R`: Scraping admission tables
-- `Week 1.r`: Data exploration on citation data
-- `CitesforSara.csv`: Citation dataset used in Week 1
-- PDFs: Homework 2, Lecture 2, Week 1 Introduction, Existing Data Libraries
+```
+MIT - Data Analysis for Social Scientists/
+├── Week 1/
+│   ├── CitesforSara.csv
+│   ├── Week 1 - Introduction Psychology.pdf
+│   └── Week 1.r
+└── Week 2/
+    ├── abebooks.R
+    ├── abebooks_clean.R
+    ├── calpoly.R
+    ├── Existing_Data_Libraries.pdf
+    ├── mit14_310x_s23_homework02.pdf
+    └── mit14_310x_s23_week02_lec02.pdf
+```
 
-These were uploaded from local course files.
+Folder structure preserved from local materials.
