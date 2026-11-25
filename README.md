@@ -1,22 +1,9 @@
-# MIT 14.310x: Data Analysis for Social Scientists
+# MIT 14.310x: Data Analysis for Social Scientists (Spring 2023)
 
-Course materials and R scripts for the edX MOOC by MIT (Professor Esther Duflo et al.).
+Graduate-level course taught by Prof. Esther Duflo and Dr. Sara Ellison (MIT Economics).
 
-## Structure
+Introduces methods for using data to answer questions in culture, society, economics, and policy. Starts with core probability and statistics, then covers regression and econometrics, experimental design, randomized controlled trials (including A/B testing), machine learning, and data visualization. Concepts are illustrated with real-world examples and frontier research. Includes hands-on instruction in R and opportunities for self-directed empirical analysis.
 
-```
-MIT - Data Analysis for Social Scientists/
-├── Week 1/
-│   ├── CitesforSara.csv
-│   ├── Week 1 - Introduction Psychology.pdf
-│   └── Week 1.r
-└── Week 2/
-    ├── abebooks.R
-    ├── abebooks_clean.R
-    ├── calpoly.R
-    ├── Existing_Data_Libraries.pdf
-    ├── mit14_310x_s23_homework02.pdf
-    └── mit14_310x_s23_week02_lec02.pdf
-```
+No prior probability/statistics background required; basic algebra and calculus assumed.
 
-Folder structure preserved from local materials.
+Materials drawn from the MITx / OCW offering: https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/
